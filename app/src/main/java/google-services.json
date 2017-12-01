@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78810245809",
+    "project_id": "gmailintegration-179612"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78810245809:android:7cde3e7752367341",
+        "android_client_info": {
+          "package_name": "com.example.admin.gmailintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78810245809-fics85d2e3kj64gmmg4025rln9ms99ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.gmailintegration",
+            "certificate_hash": "0fb34dabafc1cd95897f42896de3a2b1b9b0912e"
+          }
+        },
+        {
+          "client_id": "78810245809-upkc24cpgd2ru3m1ktora865gq7nsc91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnn3zaWExGOpZyWMfJp-PjJC-CRoV6vps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
